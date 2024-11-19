@@ -1,0 +1,14 @@
+# ninja log v6
+17	413	7537395655285104	build.ninja	5785d2489a64559
+37	160	7537395656675478	CMakeFiles/untitled2.dir/inventario.c.obj	b87dae65b722f713
+48	190	7537395656785426	CMakeFiles/untitled2.dir/inventario_functions.c.obj	779251b9fcf41f6c
+191	417	7537395658205097	untitled2.exe	8670e968bc2f78db
+7	257	7537396509145893	CMakeFiles/untitled2.dir/inventario.c.obj	b87dae65b722f713
+20	295	7537396509285845	CMakeFiles/untitled2.dir/inventario_functions.c.obj	779251b9fcf41f6c
+295	664	7537396512025841	untitled2.exe	8670e968bc2f78db
+7	125	7537397519712023	CMakeFiles/untitled2.dir/inventario.c.obj	b87dae65b722f713
+126	354	7537397520902024	untitled2.exe	8670e968bc2f78db
+10	164	7537397649527669	CMakeFiles/untitled2.dir/inventario.c.obj	b87dae65b722f713
+165	501	7537397651067684	untitled2.exe	8670e968bc2f78db
+9	191	7537403522795297	CMakeFiles/untitled2.dir/inventario_functions.c.obj	779251b9fcf41f6c
+192	404	7537403524625340	untitled2.exe	8670e968bc2f78db
